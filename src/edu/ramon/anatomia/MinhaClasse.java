@@ -1,3 +1,4 @@
+package edu.ramon.anatomia;
 public class MinhaClasse {
     public static void main (String [] args){
       
@@ -6,7 +7,6 @@ public class MinhaClasse {
 
         String nomeComposto = nomeCompleto (nome, segundoNome);
 
-        int anoFabricacao = 2019;
 
         System.out.println(nomeComposto);
     }
